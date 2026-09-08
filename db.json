@@ -1,0 +1,36 @@
+{
+    "produtos":[
+        {
+            "id": 1,
+            "nome": "shampoodo cristiano ronaldo",
+            "preco": 10.00,
+            "imagem": "https://www.google.com/imgres?q=pre%C3%A7o%20shampoo%20cristian&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F61GVBA4eoxL._AC_UF1000%2C1000_QL80_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.com.br%2FShampoo-Anticaspa-Clear-Limpeza-Profunda%2Fdp%2FB07LFDHL8H&docid=VjGQmjqfwyw-GM&tbnid=3A1QVSDiCDeljM&vet=12ahUKEwjNt9X76d6WAxUiGbkGHWhxMWAQnPAOegQIQRAA..i&w=344&h=1000&hcb=2&ved=2ahUKEwjNt9X76d6WAxUiGbkGHWhxMWAQnPAOegQIQRAA"
+            
+
+        },
+        {
+            "id": 2,
+            "nome": "condicionador hidrata OX",
+            "preco": 26.00,
+            "imagem": "https://www.google.com/aclk?sa=L&ai=DChsSEwir9O_c6t6WAxXVTEgAHZVPFTEYACICCAEQCxoCY2U&co=1&ase=2&gclid=Cj0KCQjw5P7UBhDaARIsAOSlS1Pa71ZrwBgPfRX3ubM9CSTsKgzRV-CK-_rXdUYB7XoVH56v2DaycE8aAr86EALw_wcB&ei=Q-ufatzoLNfY1sQP9JHikQo&cid=CAASWeRoy1zsvZJXWQBaFSdrvXUxMUR-ue9FNy8lvhnfr4JJ4gtUaCBevs5owHKXUnVTsAXqsX142FZO6wDlHIpob3X2FKnmBHJYNWD7OwR0vwOGD-7KNrM5a2st&cce=2&category=acrcp_v1_32&sig=AOD64_1JYihik-eqQIDXvLhRks7OEGnYXA&ctype=5&q=&nis=4&sqi=2&ved=2ahUKEwiclunc6t6WAxVXrJUCHfSIOKIQ5bgDKAB6BAgKEAs&adurl="
+        },
+        {
+            "id": 3,
+            "nome": "perfume da barbie inafantil",
+            "preco": 29.00,
+            "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_714197-MLA112460229848_062026-T.webp"
+        },
+        {
+            "id": 4,
+            "nome": "escova de cabelo colorida sortida",
+            "preco": 11.00,
+            "imagem": "https://www.armarinhosaojose.com.br/octopus/design/images/94/products/o/detalhe-escova-cabelo-colorida-sortida.jpg"
+        },
+        {
+            "id": 5,
+            "nome": "creme hidratante corporal ceraVe",
+            "preco": 100.00,
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp9z0e6IddbNXv8Jauk1LkyY_KerFRMR2WMrFFqXYzqg&s"
+        }
+    ]
+}
