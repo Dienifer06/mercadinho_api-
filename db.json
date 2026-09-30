@@ -1,11 +1,27 @@
 {
+    "usuarios":[
+        {
+            "id":1,
+            "email":"admin@gmail.com",
+            "senha": "admn"
+        },
+        {
+            "id":2,
+            "email":"cleide@gmail.com",
+            "senha": "cle"
+
+        }
+    ],
+
+
+
+
     "produtos":[
         {
             "id": 1,
             "nome": "shampoodo cristiano ronaldo",
             "preco": 10.00,
-            "imagem": "https://www.google.com/imgres?q=pre%C3%A7o%20shampoo%20cristian&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F61GVBA4eoxL._AC_UF1000%2C1000_QL80_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.com.br%2FShampoo-Anticaspa-Clear-Limpeza-Profunda%2Fdp%2FB07LFDHL8H&docid=VjGQmjqfwyw-GM&tbnid=3A1QVSDiCDeljM&vet=12ahUKEwjNt9X76d6WAxUiGbkGHWhxMWAQnPAOegQIQRAA..i&w=344&h=1000&hcb=2&ved=2ahUKEwjNt9X76d6WAxUiGbkGHWhxMWAQnPAOegQIQRAA"
-            
+            "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_948366-MLA101798354530_122025-P.webp"
 
         },
         {
@@ -24,7 +40,7 @@
             "id": 4,
             "nome": "escova de cabelo colorida sortida",
             "preco": 11.00,
-            "imagem": "https://www.armarinhosaojose.com.br/octopus/design/images/94/products/o/detalhe-escova-cabelo-colorida-sortida.jpg"
+            "imagem": "https://m.media-amazon.com/images/I/6177k0wf8eL._AC_SX522_.jpg"
         },
         {
             "id": 5,
