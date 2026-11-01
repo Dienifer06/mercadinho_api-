@@ -1,52 +1,32 @@
 {
-    "usuarios":[
-        {
-            "id":1,
-            "email":"admin@gmail.com",
-            "senha": "admn"
-        },
-        {
-            "id":2,
-            "email":"cleide@gmail.com",
-            "senha": "cle"
-
-        }
-    ],
-
-
-
-
-    "produtos":[
-        {
-            "id": 1,
-            "nome": "shampoodo cristiano ronaldo",
-            "preco": 10.00,
-            "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_948366-MLA101798354530_122025-P.webp"
-
-        },
-        {
-            "id": 2,
-            "nome": "condicionador hidrata OX",
-            "preco": 26.00,
-            "imagem": "https://www.google.com/aclk?sa=L&ai=DChsSEwir9O_c6t6WAxXVTEgAHZVPFTEYACICCAEQCxoCY2U&co=1&ase=2&gclid=Cj0KCQjw5P7UBhDaARIsAOSlS1Pa71ZrwBgPfRX3ubM9CSTsKgzRV-CK-_rXdUYB7XoVH56v2DaycE8aAr86EALw_wcB&ei=Q-ufatzoLNfY1sQP9JHikQo&cid=CAASWeRoy1zsvZJXWQBaFSdrvXUxMUR-ue9FNy8lvhnfr4JJ4gtUaCBevs5owHKXUnVTsAXqsX142FZO6wDlHIpob3X2FKnmBHJYNWD7OwR0vwOGD-7KNrM5a2st&cce=2&category=acrcp_v1_32&sig=AOD64_1JYihik-eqQIDXvLhRks7OEGnYXA&ctype=5&q=&nis=4&sqi=2&ved=2ahUKEwiclunc6t6WAxVXrJUCHfSIOKIQ5bgDKAB6BAgKEAs&adurl="
-        },
-        {
-            "id": 3,
-            "nome": "perfume da barbie inafantil",
-            "preco": 29.00,
-            "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_714197-MLA112460229848_062026-T.webp"
-        },
-        {
-            "id": 4,
-            "nome": "escova de cabelo colorida sortida",
-            "preco": 11.00,
-            "imagem": "https://m.media-amazon.com/images/I/6177k0wf8eL._AC_SX522_.jpg"
-        },
-        {
-            "id": 5,
-            "nome": "creme hidratante corporal ceraVe",
-            "preco": 100.00,
-            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp9z0e6IddbNXv8Jauk1LkyY_KerFRMR2WMrFFqXYzqg&s"
-        }
-    ]
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Bolo de Morango Kawaii 🍰",
+      "preco": 15.50,
+      "categoria": "Doceria da Kitty",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Strawberry_shortcake_001.jpg/640px-Strawberry_shortcake_001.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Laço Rosa Icónico 🎀",
+      "preco": 25.00,
+      "categoria": "Boutique Kawaii",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Pink_ribbon_bow.svg/512px-Pink_ribbon_bow.svg.png"
+    },
+    {
+      "id": 3,
+      "nome": "Chá de Bolhas de Morango 🧋",
+      "preco": 12.00,
+      "categoria": "Café da Cidade",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Boba_tea.jpg/640px-Boba_tea.jpg"
+    },
+    {
+      "id": 4,
+      "nome": "Ursinho de Pelúcia Pastel 🧸",
+      "preco": 45.00,
+      "categoria": "Lojinha de Presentes",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Teddy_bear_vector.svg/512px-Teddy_bear_vector.svg.png"
+    }
+  ]
 }
