@@ -1,32 +1,74 @@
 {
   "produtos": [
     {
-      "id": 1,
-      "nome": "Bolo de Morango Kawaii 🍰",
-      "preco": 15.50,
-      "categoria": "Doceria da Kitty",
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Strawberry_shortcake_001.jpg/640px-Strawberry_shortcake_001.jpg"
+      "id": "1",
+      "nome": "Bolo de Morango Kawaii",
+      "preco": 25.0,
+      "imagem": "https://raw.githubusercontent.com/pokeapi/sprites/master/sprites/items/sweet-heart.png"
     },
     {
-      "id": 2,
-      "nome": "Laço Rosa Icónico 🎀",
-      "preco": 25.00,
-      "categoria": "Boutique Kawaii",
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Pink_ribbon_bow.svg/512px-Pink_ribbon_bow.svg.png"
+      "id": "2",
+      "nome": "Laço Rosa Especial",
+      "preco": 15.0,
+      "imagem": "https://raw.githubusercontent.com/pokeapi/sprites/master/sprites/items/silk-scarf.png"
     },
     {
-      "id": 3,
-      "nome": "Chá de Bolhas de Morango 🧋",
-      "preco": 12.00,
-      "categoria": "Café da Cidade",
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Boba_tea.jpg/640px-Boba_tea.jpg"
+      "id": "3",
+      "nome": "Chá de Cerejeira",
+      "preco": 10.0,
+      "imagem": "https://raw.githubusercontent.com/pokeapi/sprites/master/sprites/items/fresh-water.png"
     },
     {
-      "id": 4,
-      "nome": "Ursinho de Pelúcia Pastel 🧸",
-      "preco": 45.00,
-      "categoria": "Lojinha de Presentes",
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Teddy_bear_vector.svg/512px-Teddy_bear_vector.svg.png"
+      "id": "4",
+      "nome": "Pelúcia Hello Kitty",
+      "preco": 50.0,
+      "imagem": "https://raw.githubusercontent.com/pokeapi/sprites/master/sprites/items/substitute.png"
+    }
+  ],
+  "eventos": [
+    {
+      "id": "1",
+      "titulo": "Festival da Primavera",
+      "descricao": "Venha comemorar a florada das cerejeiras na praça central!",
+      "data": "15 de Novembro",
+      "imagem": "https://raw.githubusercontent.com/pokeapi/sprites/master/sprites/items/grace-idea.png"
+    },
+    {
+      "id": "2",
+      "titulo": "Chá da Tarde com a Hello Kitty",
+      "descricao": "Encontro especial com doces artesanais e bebidas cor-de-rosa.",
+      "data": "20 de Novembro",
+      "imagem": "https://raw.githubusercontent.com/pokeapi/sprites/master/sprites/items/sweet-heart.png"
+    }
+  ],
+  "oportunidades": [
+    {
+      "id": "1",
+      "titulo": "Ajudar na Confeitaria",
+      "descricao": "Entregue 3 bolos de morango para os moradores do bairro.",
+      "recompensa_xp": 50,
+      "recompensa_moedas": 100
+    },
+    {
+      "id": "2",
+      "titulo": "Decorar a Praça Central",
+      "descricao": "Coloque laços cor-de-rosa nas lâmpadas da praça.",
+      "recompensa_xp": 80,
+      "recompensa_moedas": 150
+    }
+  ],
+  "servicos": [
+    {
+      "id": "1",
+      "nome": "Prefeitura Digital",
+      "descricao": "Emissão de documentos da cidade e informações aos cidadãos.",
+      "horario": "08:00 - 18:00"
+    },
+    {
+      "id": "2",
+      "nome": "Centro de Adoção de Pets",
+      "descricao": "Cuide e adote bichinhos fofos da cidade digital.",
+      "horario": "09:00 - 17:00"
     }
   ]
 }
